@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0187ce</color>
+    <color name="colorPrimaryDark">#004d85</color>
+    <color name="colorAccent">#11CFC5</color>
+    <color name="themeColor">#0061a8</color>
+
+    <color name="darkTextColor">#495057</color>
+    <color name="contentTextColor">#020000</color>
+    <color name="register_bk_color">#0061a8</color>
+    <color name="login_bk_color">#000</color>
+    <color name="button_nonactive">#DFC9B7</color>
+    <color name="button_active">#FFF6F0</color>
+    <color name="whiteTextColor">#fcfcfc</color>
+    <color name="primaryTextColor">#495057</color>
+    <color name="button">#f4f4f4</color>
+    <color name="button1">#0061a8</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+
+    <color name="polije">#0187ce</color>
+
+    <!--Colour Palette-->
+    <color name="bootstrap_blue">#0d6efd</color>
+    <color name="bootstrap_indigo">#6610f2</color>
+    <color name="bootstrap_purple">#6f42c1</color>
+    <color name="bootstrap_pink">#d63384</color>
+    <color name="bootstrap_red">#dc3545</color>
+    <color name="bootstrap_orange">#fd7e14</color>
+    <color name="bootstrap_yellow">#ffc107</color>
+    <color name="bootstrap_green">#198754</color>
+    <color name="bootstrap_teal">#20c997</color>
+    <color name="bootstrap_cyan">#0dcaf0</color>
+
+
+    <!--Dark Colour-->
+    <color name="white">#fff</color>
+    <color name="light">#f8f9fa</color>
+    <color name="gray_100">#f8f9fa</color>
+    <color name="gray_200">#e9ecef</color>
+    <color name="gray_300">#dee2e6</color>
+    <color name="gray_400">#ced4da</color>
+    <color name="gray_500">#adb5bd</color>
+    <color name="gray_600">#6c757d</color>
+    <color name="gray_700">#495057</color>
+    <color name="gray_800">#343a40</color>
+    <color name="gray_900">#212529</color>
+    <color name="black">#FF000000</color>
+
+
+    <!--other color-->
+    <color name="txt_price_color">#0AAC3A</color>
+    <color name="ripple_color">#dfdfdf</color>
+    <color name="green">#0ecf48</color>
+    <color name="grey">#999999</color>
+    <color name="grey_soft">#ededed</color>
+    <color name="separator">#efefef</color>
+    <color name="hint">#767676</color>
+    <color name="available">#ef6c00</color>
+    <color name="sold">#767676</color>
+</resources>
